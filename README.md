@@ -1,6 +1,6 @@
 # ADEP
 
-A Windows-based administration utility designed to simplify common IT support, remote troubleshooting, software deployment, and Active Directory tasks through a single graphical interface.
+A no-frills Windows-based administration utility designed to simplify common IT support, remote troubleshooting, software deployment, and Active Directory tasks through a single graphical interface.
 
 Built with PowerShell and Sapien PowerShell Studio, the tool brings frequently used administrative operations together in one place, reducing the need to remember and run separate commands for everyday support tasks.
 
