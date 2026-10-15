@@ -26,6 +26,6 @@ Administrative permissions, network connectivity, Windows management services, a
 
 If you find ADEP useful, consider supporting its continued development with a donation.
 
-[☕ Support ADEP via PayPal](https://www.paypal.biz/thielensys)
+[☕ Support ADEP via PayPal $10](https://paypal.me/thielensys/10)
 
 
