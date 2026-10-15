@@ -1,4 +1,4 @@
-# ADEP
+# ADEP - Active Directory EndPoint - Simple Remote Management Tool
 
 A no-frills Windows-based administration utility designed to simplify common IT support, remote troubleshooting, software deployment, and Active Directory tasks through a single graphical interface.
 
