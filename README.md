@@ -20,4 +20,12 @@ Built with PowerShell and Sapien PowerShell Studio, the tool brings frequently u
 
 Designed for IT administrators working in managed Windows environments, particularly domain-based networks where remote administration and Active Directory integration are available.
 
+### Support ADEP
+
+If you find ADEP useful, consider supporting its continued development with a donation.
+
+[☕ Support ADEP via PayPal]([https://paypal.me/YOUR-PAYPAL-USERNAME](https://www.paypal.biz/thielensys))
+
+
+
 Administrative permissions, network connectivity, Windows management services, and applicable PowerShell modules are required for certain operations.
