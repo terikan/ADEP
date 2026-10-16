@@ -22,6 +22,10 @@ Designed for IT administrators working in managed Windows environments, particul
 
 Administrative permissions, network connectivity, Windows management services, and applicable PowerShell modules are required for certain operations.
 
+### Building and Usage
+
+You can find a ready to use EXE in the releases zip, along with sample jobs.csv.  If you'd like to build it from the source files, you will need to use Sapien Powershell Studio.
+
 ### Support ADEP
 
 If you find ADEP useful, consider supporting its continued development with a donation.
